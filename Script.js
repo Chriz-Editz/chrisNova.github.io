@@ -16,7 +16,7 @@ toggleButton.addEventListener('click', () => {
 });
 
 const typedTextSpan = document.querySelector('.typed-text');
-const words = ["interactive websites", "React apps", "modern web solutions", "creative projects"];
+const words = ["interactive websites", "responsive web pages", "modern web solutions", "creative projects"];
 let wordIndex = 0;
 let letterIndex = 0;
 let currentWord = '';
