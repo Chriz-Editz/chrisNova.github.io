@@ -107,7 +107,7 @@ setInterval(() => {
 }, 5000);
 
 // Initialize EmailJS (replace 'YOUR_USER_ID' with your actual ID)
-emailjs.init("service_port_chrisNova01");
+emailjs.init("xiXhazAyRvvR5G_i_");
 
 const contactForm = document.getElementById('contact-form');
 const formMessage = document.getElementById('form-message');
