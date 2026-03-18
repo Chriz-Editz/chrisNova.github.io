@@ -601,6 +601,15 @@ form {
   gap: 1.5rem;
 }
 
+.contact-info p a {
+  text-decoration: none;
+  color: var(--text-color);
+  font-weight: 500;
+}
+
+.contact-info p a:hover {
+  color: var(--accent-color);
+  }
 .info-item {
   display: flex;
   align-items: center;
